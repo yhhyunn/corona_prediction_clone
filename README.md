@@ -5,8 +5,8 @@ COVID-19 Prediction Clone
 확진자수 확인 URL: https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
 
 - Prediction Line
-  ![Forcast](https://github.com/yhhyunn/corona_prediction_clone/raw/mask/forcast_line.png)
-  ![Add Changepoints](https://github.com/yhhyunn/corona_prediction_clone/raw/mask/changepoints.png)
+  ![Forcast](https://github.com/yhhyunn/corona_prediction_clone/raw/master/forcast_line.png)
+  ![Add Changepoints](https://github.com/yhhyunn/corona_prediction_clone/raw/master/changepoints.png)
 
 ## Reference
 
