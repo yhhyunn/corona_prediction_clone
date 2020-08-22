@@ -1,7 +1,7 @@
 # corona_prediction_clone
 
 COVID-19 Prediction Clone
-코로나 바이러스 예측 모델 생성
+코로나 바이러스 예측 모델 생성(2020.08.18)
 확진자수 확인 URL: https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
 
 - Prediction Line
