@@ -4,6 +4,10 @@ COVID-19 Prediction Clone
 코로나 바이러스 예측 모델 생성
 확진자수 확인 URL: https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
 
+- Prediction Line
+  ![Forcast](https://github.com/yhhyunn/corona_prediction_clone/raw/mask/forcast_line.png)
+  ![Add Changepoints](https://github.com/yhhyunn/corona_prediction_clone/raw/mask/changepoints.png)
+
 ## Reference
 
 - Code: https://github.com/kairess/corona-virus-prediction
@@ -12,18 +16,18 @@ COVID-19 Prediction Clone
 
 ## Keyword
 
-    - Facebook Prophet: https://facebook.github.io/prophet/
-        * Changepoints: https://facebook.github.io/prophet/docs/trend_changepoints.html
+- Facebook Prophet: https://facebook.github.io/prophet/
+  - Changepoints: https://facebook.github.io/prophet/docs/trend_changepoints.html
 
 ## System
 
-    - Windows 10
-    - Ryzen 9 3900X
-    - RTX 2070 Super
+- Windows 10
+- Ryzen 9 3900X
+- RTX 2070 Super
 
 ## Dependency
 
-    - Python
-    - pandas
-    - plotly
-    - [fbprophet](https://facebook.github.io/prophet/docs/quick_start.html)
+- Python
+- pandas
+- plotly
+- [fbprophet](https://facebook.github.io/prophet/docs/quick_start.html)
